@@ -1,0 +1,9 @@
+[
+    {"_id": 1, "branch":"ckg", "name":"Minyak goreng", "description":"minyak goreng Bimoli 2 Liter", "price":2, "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/1/21/941cce47-8898-41e0-be56-a973b36d77df.jpg"},
+    {"_id": 2, "branch":"ckg", "name":"Gula Pasir", "description":"GULAKU Premium Gula Pasir 1 kg", "price":1, "image": "https://www.kiozorenz.com/image-product/img4918-1586591386.jpg"},
+    {"_id": 3, "branch":"ckg", "name":"Mentega", "description":"Blue Band Mentega [200gr].", "price":3, "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//90/MTA-7138125/blue_band_blue_band_mentega_serbaguna_-200gr-_full05_d3e66wvi.jpg"},
+    {"_id": 4, "branch":"ckg", "name":"Saos Pedas", "description":"ABC Saus Pedas [335 mL].", "price":0.4, "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//85/MTA-12133651/abc_saus_sambal_abc_sambal_asli_sauce_saos_sambal_335ml_full02_faksfc3z.jpg"},
+    {"_id": 5, "branch":"ckg", "name":"Kecap", "description":"Kecap Bango 135ml.", "price":1, "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-11707649/bango_bango_kecap_manis_275_ml_full02_k45lbfna.jpeg"},
+    {"_id": 6, "branch":"ckg", "name":"Garam", "description":"Refina Garam Meja Reffil 250 Gr.", "price":0.5,"image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-11324276/refina_refina-garam-meja-reffil-250-gr_full01.jpg"},
+    {"_id": 7, "branch":"ckg", "name":"Saos Tomat", "description":"ABC Saus Tomat [335 mL].", "price":0.3,"image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-3939155/abc_abc_saus_tomat_335ml_full02.jpg"}
+]

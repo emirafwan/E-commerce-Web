@@ -1,0 +1,53 @@
+
+
+[
+    {
+        "_id": 1,
+        "username": "aaaaa",
+        "phonebook": "081325342845",
+        "branch": "ckg",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 2,
+        "username": "bbbbb",
+        "phonebook": "081397342845",
+        "branch": "tgr",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 3,
+        "username": "ccccc",
+        "phonebook": "081885342845",
+        "branch": "jgc",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 4,
+        "username": "ddddd",
+        "phonebook": "081329742845",
+        "branch": "rbb",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 5,
+        "username": "eeeee",
+        "phonebook": "081312342845",
+        "branch": "jkt",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 6,
+        "username": "fffff",
+        "phonebook": "081323242845",
+        "branch": "bks",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    },
+    {
+        "_id": 7,
+        "username": "ggggg",
+        "phonebook": "085322342845",
+        "branch": "khi",
+        "address": "Jl. Harapan Indah Boulevard No.2, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kota Bks, Jawa Barat 17214"
+    }
+]

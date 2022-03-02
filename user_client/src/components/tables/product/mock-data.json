@@ -1,0 +1,37 @@
+[
+    {
+      "_id": 1,
+      "name": "Jenny Chan",
+      "description": "3 waterfoot road",
+      "price": "333-962-7516",
+      "image": "jenny.chan@email.com"
+    },
+    {
+      "_id": 2,
+      "name": "Jessica warren",
+      "description": "4 tall town",
+      "price": "011-211-7516",
+      "image": "jessica.warren@email.com"
+    },
+    {
+      "_id": 3,
+      "name": "Tony Frank",
+      "description": "11 lesly road",
+      "price": "788-962-7516",
+      "image": "tony.frank@email.com"
+    },
+    {
+      "_id": 4,
+      "name": "Jeremy Clark",
+      "description": "333 miltown manor",
+      "price": "011-962-111",
+      "image": "jeremy.clark@email.com"
+    },
+    {
+      "_id": 5,
+      "name": "Raymond Edwards",
+      "description": "99 blue acres",
+      "price": "3231-962-7516",
+      "image": "raymon.edwards@email.com"
+    }
+  ]
